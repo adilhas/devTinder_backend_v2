@@ -135,14 +135,6 @@ Server runs at: `http://localhost:3000/`
 
 ---
 
-## 🔗 Frontend Integration
-The frontend for DevTinder is available at:
-🔗 **[DevTinder Frontend Repository](https://github.com/akshadjaiswal/devTinder-frontend)**
-
-Make sure the backend is running before accessing the frontend.
-
----
-
 ## 📌 Future Enhancements
 🔹 Real-time notifications using WebSockets  
 🔹 Messaging System for better user interaction  
